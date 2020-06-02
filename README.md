@@ -1,7 +1,6 @@
 # video_filter
 
-A new Flutter project.
-
+Gray Scale Filter is Working just manipulate the hue value in ffmpeg command in code to see multiple filters
 ## Getting Started
 
 This project is a starting point for a Flutter application.
